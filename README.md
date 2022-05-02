@@ -1,2 +1,3 @@
-# git-training
-Git practice
+# Git practice
+Practive with code issues and pull requests
+
